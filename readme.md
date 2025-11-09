@@ -1,6 +1,6 @@
 ## Belajar Fundamental Aplikasi Web dengan PHP
 
-### Materi ini ditujukan bagi kamu yang sudah mengenal dasar pemrograman PHP dan ingin melangkah lebih jauh ke tahap pengembangan aplikasi web yang sesungguhnya. Di sini, kamu akan belajar bagaimana PHP digunakan untuk membangun aplikasi web dinamis, mulai dari integrasi front-end, pengolahan form, koneksi database, hingga membuat sistem login dan deployment ke server.
+Materi ini ditujukan bagi kamu yang sudah mengenal dasar pemrograman PHP dan ingin melangkah lebih jauh ke tahap pengembangan aplikasi web yang sesungguhnya. Di sini, kamu akan belajar bagaimana PHP digunakan untuk membangun aplikasi web dinamis, mulai dari integrasi front-end, pengolahan form, koneksi database, hingga membuat sistem login dan deployment ke server.
 
 ## Arsitektur Aplikasi Web
 
