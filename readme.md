@@ -27,7 +27,7 @@ Materi ini ditujukan bagi kamu yang sudah mengenal dasar pemrograman PHP dan ing
 
 1.  [Perintah `mysqli` pada PHP](/materi/013/perintah-mysqli.md)
 2.  [Menghubungkan PHP dengan MySQL menggunakan `mysqli`](/materi/014/koneksi-mysqli.md)
-3.  Query Dasar: SELECT, INSERT, UPDATE, DELETE
+3.  [Query Dasar: SELECT, INSERT, UPDATE, DELETE](/materi/015/query-dasar.md)
 4.  Mencegah SQL Injection dengan Prepared Statement
 5.  Studi Kasus: CRUD Aplikasi Catatan
 
