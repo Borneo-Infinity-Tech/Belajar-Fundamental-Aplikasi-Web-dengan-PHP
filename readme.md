@@ -23,12 +23,13 @@ Materi ini ditujukan bagi kamu yang sudah mengenal dasar pemrograman PHP dan ing
 3.  Upload File dengan PHP
 4.  Studi Kasus: Form Registrasi
 
-## Koneksi Database (MySQL)
+## Koneksi Database (MySQL) dan CRUD pada PHP
 
-1.  Menghubungkan PHP dengan MySQL menggunakan `mysqli`
-2.  Query Dasar: SELECT, INSERT, UPDATE, DELETE
-3.  Mencegah SQL Injection dengan Prepared Statement
-4.  Studi Kasus: CRUD Aplikasi Catatan
+1.  [Perintah `mysqli` pada PHP](/materi/013/perintah-mysqli.md)
+2.  [Menghubungkan PHP dengan MySQL menggunakan `mysqli`](/materi/014/koneksi-mysqli.md)
+3.  Query Dasar: SELECT, INSERT, UPDATE, DELETE
+4.  Mencegah SQL Injection dengan Prepared Statement
+5.  Studi Kasus: CRUD Aplikasi Catatan
 
 ## Session, Cookie, dan Autentikasi
 
