@@ -20,7 +20,7 @@ Materi ini ditujukan bagi kamu yang sudah mengenal dasar pemrograman PHP dan ing
 
 1.  Form Input Menggunakan `$_POST` dan `$_GET`
 2.  [Validasi Form, Menangani Error dan Pesan Validasi](/materi/010/validasi-form.md)
-3.  Upload File dengan PHP
+3.  [Upload File dengan PHP](/materi/011/upload-file-php.md)
 4.  Studi Kasus: Form Registrasi
 
 ## Koneksi Database (MySQL) dan CRUD pada PHP
