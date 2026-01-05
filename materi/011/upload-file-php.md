@@ -149,7 +149,7 @@ move_uploaded_file($tmpFile, $folderTujuan . $namaBaru);
 
 ```php
 <?php
-if (isset($_POST['upload'])) {
+if ($_SERVER["REQUEST_METHOD"] === "POST") {
 
     $file = $_FILES['fileUpload'];
     $namaFile = $file['name'];
@@ -181,6 +181,8 @@ if (isset($_POST['upload'])) {
 }
 ?>
 ```
+
+Contoh kode lengkap https://github.com/SMK-ISFI/upload-file-php/tree/main/lab-011
 
 Upload file dengan PHP merupakan fitur penting dalam aplikasi web. Dengan memahami:
 
