@@ -13,7 +13,7 @@ Materi ini ditujukan bagi kamu yang sudah mengenal dasar pemrograman PHP dan ing
 
 1.  Menggabungkan PHP dengan HTML dan CSS
 2.  Menyusun Template Layout
-3.  Reusable Components dengan `include` dan `require`
+3.  [Reusable Components dengan `include` dan `require`](/materi/007/include-dan-required.md)
 4.  Studi Kasus Membuat Halaman Web Dinamsi
 
 ## Form dan Input Data
