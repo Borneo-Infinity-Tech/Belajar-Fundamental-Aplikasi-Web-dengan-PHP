@@ -18,7 +18,7 @@ Proses upload file di PHP melibatkan:
 3.  File dikirim dan disimpan sementara di server
 4.  PHP memindahkan file ke folder tujuan
 
-Ketika file diupload, PHP otomatis menyimpannya sementara dan informasinya dapat diakses melalui `**$_FILES**`.
+Ketika file diupload, PHP otomatis menyimpannya sementara dan informasinya dapat diakses melalui `$_FILES`.
 
 ## Membuat Form Upload File (HTML)
 
