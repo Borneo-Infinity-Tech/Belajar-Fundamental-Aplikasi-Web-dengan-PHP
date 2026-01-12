@@ -202,8 +202,8 @@ $pages = [
     'settings' => 'pages/settings.php'
 ];
 
-$page = $_GET['page'] ?? 'home';
-$page_file = $pages[$page] ?? $pages['home'];
+$page = $_GET['page'] ?? 'dashboard';
+$page_file = $pages[$page] ?? $pages['dashboard'];
 ?>
 
 <!DOCTYPE html>
