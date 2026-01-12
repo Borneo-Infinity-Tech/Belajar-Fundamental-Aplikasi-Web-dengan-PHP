@@ -91,7 +91,7 @@ Buka file **sidebar.php** tambahkan kode berikut.
 Pada **index.php** tambahkan kode diantara komentar sidebar.
 
 ```php
-<?php include "layout/sidebar.php"; ?>
+<?php include "layouts/sidebar.php"; ?>
 ```
 
 Buka file **topbar.php** tambahkan kode berikut.
@@ -106,7 +106,7 @@ Buka file **topbar.php** tambahkan kode berikut.
 Pada **index.php** tambahkan kode diantara komentar topbar.
 
 ```php
-<?php include "layout/topbar.php"; ?>
+<?php include "layouts/topbar.php"; ?>
 ```
 
 Buka file **footer.php** tambahkan kode berikut.
@@ -120,7 +120,7 @@ Buka file **footer.php** tambahkan kode berikut.
 Pada **index.php** tambahkan kode diantara komentar footer.
 
 ```php
-<?php include "layout/footer.php"; ?>
+<?php include "layouts/footer.php"; ?>
 ```
 
 Pada kasus di atas kita sudah membagi komponen menjadi file terpisah, keuntungannya kita cukup menuliskan satu kali, namun bisa dipakai dibeberapa halaman.
@@ -219,7 +219,7 @@ $page_file = $pages[$page] ?? $pages['dashboard'];
       <div class="flex min-h-screen">
 
           <!-- Sidebar -->
-          <?php include "layout/sidebar.php"; ?>
+          <?php include "layouts/sidebar.php"; ?>
           <!-- End Sidebar -->
 
 
@@ -227,7 +227,7 @@ $page_file = $pages[$page] ?? $pages['dashboard'];
           <div class="flex-1 flex flex-col">
 
               <!-- Topbar -->
-              <?php include "layout/topbar.php"; ?>
+              <?php include "layouts/topbar.php"; ?>
               <!-- End Topbar -->
 
               <!-- Content -->
@@ -237,7 +237,7 @@ $page_file = $pages[$page] ?? $pages['dashboard'];
               <!-- End Content -->
 
               <!-- Footer -->
-              <?php include "layout/footer.php"; ?>
+              <?php include "layouts/footer.php"; ?>
               <!-- End Footer -->
 
           </div>
