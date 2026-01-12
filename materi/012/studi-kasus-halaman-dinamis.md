@@ -16,7 +16,7 @@ Didalam folder tersebut buat struktur folder dan file seperti di bawah.
 project-web-dinamis/
 │
 ├── index.php
-├── layout/
+├── layouts/
 │   ├── topbar.php
 │   ├── sidebar.php
 │   └── footer.php
@@ -176,9 +176,9 @@ Buka file **index.php** tulis kode di bawahi ini pada bagian awal baris file.
 ```php
 <?php
 $pages = [
-    'dashboard' => 'pages/dashboard.php',
-    'users' => 'pages/users.php',
-    'settings' => 'pages/settings.php'
+    'dashboard' => 'layouts/dashboard.php',
+    'users' => 'layouts/users.php',
+    'settings' => 'layouts/settings.php'
 ];
 
 $page = $_GET['page'] ?? 'home';
