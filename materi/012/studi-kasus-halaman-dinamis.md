@@ -278,7 +278,7 @@ Kode ini **menentukan file halaman yang akan ditampilkan**:
 $page_file = $pages[$page] ?? $pages['home'];
 ```
 
-Kode ini **memasukkan (menampilkan) isi file PHP yang ditentukan oleh** `**$page_file**` **ke halaman saat ini**.
+Kode ini **memasukkan (menampilkan) isi file PHP yang ditentukan oleh** `$page_file` **ke halaman saat ini**.
 
 ```php
 <?php include $page_file; ?>
