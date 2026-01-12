@@ -39,36 +39,36 @@ Buka file **index.php** dan tambahkan kode berikut.
   <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body class="bg-gray-100">
-    <!-- Wrapper -->
+      <!-- Wrapper -->
       <div class="flex min-h-screen">
 
-          <!-- Sidebar -->
+        <!-- Sidebar -->
 
-          <!-- End Sidebar -->
+        <!-- End Sidebar -->
 
+        <!-- Main -->
+        <div class="flex-1 flex flex-col">
 
-          <!-- Main -->
-          <div class="flex-1 flex flex-col">
+            <!-- Topbar -->
 
-              <!-- Topbar -->
+            <!-- End Topbar -->
 
-              <!-- End Topbar -->
+            <!-- Content -->
+            <main class="flex-1 p-6">
 
-              <!-- Content -->
-              <main class="flex-1 p-6">
+            </main>
+            <!-- End Content -->
 
-              </main>
-              <!-- End Content -->
+            <!-- Footer -->
 
-              <!-- Footer -->
+            <!-- End Footer -->
 
-              <!-- End Footer -->
-
-          </div>
-          <!-- End Main -->
+        </div>
+        <!-- End Main -->
 
       </div>
       <!-- End Wrapper -->
+
 </body>
 </html>
 ```
