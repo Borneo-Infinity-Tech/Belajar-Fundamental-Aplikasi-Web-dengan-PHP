@@ -176,9 +176,9 @@ Buka file **index.php** tulis kode di bawahi ini pada bagian awal baris file.
 ```php
 <?php
 $pages = [
-    'dashboard' => 'layouts/dashboard.php',
-    'users' => 'layouts/users.php',
-    'settings' => 'layouts/settings.php'
+    'dashboard' => 'pages/dashboard.php',
+    'users' => 'pages/users.php',
+    'settings' => 'pages/settings.php'
 ];
 
 $page = $_GET['page'] ?? 'home';
