@@ -107,14 +107,14 @@ Contoh penggunaan Cookie
 
 ```php
 <?php
-setcookie("username", "Andi", time() + 3600);
+setcookie("username", "Indira", time() + 3600);
 ?>
 ```
 
 **Penjelasan kode:**
 
 - `"username"` → nama cookie
-- `"Andi"` → nilai cookie
+- `"Indira"` → nilai cookie
 - `time() + 3600` → cookie berlaku selama 1 jam (3600 detik)
 
 ⚠️ `setcookie()` harus dipanggil **sebelum output HTML**
