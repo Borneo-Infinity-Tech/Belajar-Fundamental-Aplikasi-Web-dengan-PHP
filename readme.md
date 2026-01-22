@@ -13,27 +13,27 @@ Materi ini ditujukan bagi kamu yang sudah mengenal dasar pemrograman PHP dan ing
 
 1.  Menggabungkan PHP dengan HTML dan CSS
 2.  Menyusun Template Layout
-3.  [Reusable Components dengan `include` dan `require`](/materi/007/include-dan-require.md)
-4.  [Studi Kasus Membuat Halaman Web Dinamis](/materi/012/studi-kasus-halaman-dinamis.md)
+3.  [Reusable Components dengan `include` dan `require`](materi/007/include-dan-require.md)
+4.  [Studi Kasus Membuat Halaman Web Dinamis](materi/012/studi-kasus-halaman-dinamis.md)
 
 ## Form dan Input Data
 
 1.  Form Input Menggunakan `$_POST` dan `$_GET`
-2.  [Validasi Form, Menangani Error dan Pesan Validasi](/materi/010/validasi-form.md)
-3.  [Upload File dengan PHP](/materi/011/upload-file-php.md)
+2.  [Validasi Form, Menangani Error dan Pesan Validasi](materi/010/validasi-form.md)
+3.  [Upload File dengan PHP](materi/011/upload-file-php.md)
 4.  Studi Kasus: Form Registrasi
 
 ## Koneksi Database (MySQL) dan CRUD pada PHP
 
-1.  [Perintah `mysqli` pada PHP](/materi/013/perintah-mysqli.md)
-2.  [Menghubungkan PHP dengan MySQL menggunakan `mysqli`](/materi/014/koneksi-mysqli.md)
-3.  [Query Dasar: SELECT, INSERT, UPDATE, DELETE](/materi/015/query-dasar.md)
+1.  [Perintah `mysqli` pada PHP](materi/013/perintah-mysqli.md)
+2.  [Menghubungkan PHP dengan MySQL menggunakan `mysqli`](materi/014/koneksi-mysqli.md)
+3.  [Query Dasar: SELECT, INSERT, UPDATE, DELETE](materi/015/query-dasar.md)
 4.  Mencegah SQL Injection dengan Prepared Statement
 5.  Studi Kasus: CRUD Aplikasi Catatan
 
 ## Session, Cookie, dan Autentikasi
 
-1.  [Mengenal Session dan Cookie](/materi/018/session-cookie.md)
+1.  [Mengenal Session dan Cookie](materi/018/session-cookie.md)
 2.  Pengenalan Autentikasi dan Otorisasi
 3.  Alur Sistem Login (Flow Autentikasi)
 4.  Membuat Sistem Login dan Logout
