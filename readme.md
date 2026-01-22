@@ -33,11 +33,13 @@ Materi ini ditujukan bagi kamu yang sudah mengenal dasar pemrograman PHP dan ing
 
 ## Session, Cookie, dan Autentikasi
 
-1.  Mengenal Session dan Cookie
-2.  Membuat Sistem Login dan Logout
-3.  Membatasu Akses Halaman Berdasarkan Login
-4.  Remember Me dan Expired Session
-5.  Studi Kasus: Sistem Autentikasi Multi-Level
+1.  [Mengenal Session dan Cookie](/materi/018/session-cookie.md)
+2.  Pengenalan Autentikasi dan Otorisasi
+3.  Alur Sistem Login (Flow Autentikasi)
+4.  Membuat Sistem Login dan Logout
+5.  Membatasi Akses Halaman Berdasarkan Login
+6.  Remember Me, Expired Session, dan Keamanan Dasar
+7.  Studi Kasus: Sistem Autentikasi Multi-Level
 
 ## Penerapan Struktur MVC
 

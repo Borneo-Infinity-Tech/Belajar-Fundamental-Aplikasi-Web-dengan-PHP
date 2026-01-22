@@ -39,35 +39,35 @@ Buka file **index.php** dan tambahkan kode berikut.
   <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body class="bg-gray-100">
-      <!-- ===== Wrapper ===== -->
+      <!-- Wrapper -->
       <div class="flex min-h-screen">
 
-        <!-- ===== Sidebar ===== -->
+        <!-- Sidebar -->
 
-        <!-- ===== End Sidebar ===== -->
+        <!-- End Sidebar -->
 
-        <!-- ===== Main ===== -->
+        <!-- Main -->
         <div class="flex-1 flex flex-col">
 
-            <!-- ===== Topbar ===== -->
+            <!-- Topbar -->
 
-            <!-- ===== End Topbar ===== -->
+            <!-- End Topbar -->
 
-            <!-- ===== Content ===== -->
+            <!-- Content -->
             <main class="flex-1 p-6">
 
             </main>
-            <!-- ===== End Content ===== -->
+            <!-- End Content -->
 
-            <!-- ===== Footer ===== -->
+            <!-- Footer -->
 
-            <!-- ===== End Footer ===== -->
+            <!-- End Footer -->
 
         </div>
-        <!-- ===== End Main ===== -->
+        <!-- End Main -->
 
       </div>
-      <!-- ===== End Wrapper ===== -->
+      <!-- End Wrapper -->
 
 </body>
 </html>
@@ -176,13 +176,13 @@ Buka file **index.php** tulis kode di bawahi ini pada bagian awal baris file.
 ```php
 <?php
 $pages = [
-    'dashboard' => 'pages/dashboard.php',
-    'users' => 'pages/users.php',
-    'settings' => 'pages/settings.php'
+    'dashboard' => 'layouts/dashboard.php',
+    'users' => 'layouts/users.php',
+    'settings' => 'layouts/settings.php'
 ];
 
-$page = $_GET['page'] ?? 'home';
-$page_file = $pages[$page] ?? $pages['home'];
+$page = $_GET['page'] ?? 'dashboard';
+$page_file = $pages[$page] ?? $pages['dashboard'];
 ?>
 ```
 
