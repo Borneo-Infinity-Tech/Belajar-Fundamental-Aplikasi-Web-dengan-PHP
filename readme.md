@@ -28,13 +28,13 @@ Materi ini ditujukan bagi kamu yang sudah mengenal dasar pemrograman PHP dan ing
 1.  [Perintah `mysqli` pada PHP](materi/013/perintah-mysqli.md)
 2.  [Menghubungkan PHP dengan MySQL menggunakan `mysqli`](materi/014/koneksi-mysqli.md)
 3.  [Query Dasar: SELECT, INSERT, UPDATE, DELETE](materi/015/query-dasar.md)
-4.  Mencegah SQL Injection dengan Prepared Statement
+4.  [Mencegah SQL Injection dengan Prepared Statement](materi/016/sql-injection-prepared-statement.md)
 5.  Studi Kasus: CRUD Aplikasi Catatan
 
 ## Session, Cookie, dan Autentikasi
 
 1.  [Mengenal Session dan Cookie](materi/018/session-cookie.md)
-2.  Pengenalan Autentikasi dan Otorisasi
+2.  [Pengenalan Autentikasi dan Otorisasi](materi/019/auth-oath.md)
 3.  Alur Sistem Login (Flow Autentikasi)
 4.  Membuat Sistem Login dan Logout
 5.  Membatasi Akses Halaman Berdasarkan Login
