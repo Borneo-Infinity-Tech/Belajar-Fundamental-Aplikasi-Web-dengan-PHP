@@ -35,7 +35,7 @@ Materi ini ditujukan bagi kamu yang sudah mengenal dasar pemrograman PHP dan ing
 
 1.  [Mengenal Session dan Cookie](materi/018/session-cookie.md)
 2.  [Pengenalan Autentikasi dan Otorisasi](materi/019/auth-oath.md)
-3.  Alur Sistem Login (Flow Autentikasi)
+3.  [Alur Sistem Login (Flow Autentikasi)](materi/020/sistem-login.md)
 4.  Membuat Sistem Login dan Logout
 5.  Membatasi Akses Halaman Berdasarkan Login
 6.  Remember Me, Expired Session, dan Keamanan Dasar
