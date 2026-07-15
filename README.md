@@ -11,7 +11,7 @@ Materi ini ditujukan bagi kamu yang sudah mengenal dasar pemrograman PHP dan ing
 
 ## Integrasi Front-End dengan PHP
 
-1.  Menggabungkan PHP dengan HTML dan CSS
+1.  [Menggabungkan PHP dengan HTML dan CSS](materi/005/gabung-html-php.md)
 2.  Menyusun Template Layout
 3.  [Reusable Components dengan `include` dan `require`](materi/007/include-dan-require.md)
 4.  [Studi Kasus Membuat Halaman Web Dinamis](materi/012/studi-kasus-halaman-dinamis.md)
