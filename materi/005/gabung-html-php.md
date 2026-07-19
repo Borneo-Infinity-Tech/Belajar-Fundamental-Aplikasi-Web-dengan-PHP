@@ -153,4 +153,4 @@ Menguasai cara menggabungkan PHP dengan HTML dan CSS merupakan langkah penting b
 
 ---
 
-# [Praktikum](latihan-praktikum.md)
+# [Praktikum](materi/005/latihan-praktikum.md)
