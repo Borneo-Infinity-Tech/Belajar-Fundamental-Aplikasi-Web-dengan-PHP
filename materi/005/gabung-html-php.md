@@ -150,3 +150,7 @@ for($i=1; $i<=5; $i++){
 <table><tbody><tr><td><strong>Kesalahan</strong></td><td><strong>Penyebab</strong></td><td><strong>Solusi</strong></td></tr><tr><td>PHP tidak berjalan</td><td>File disimpan sebagai <code>.html</code></td><td>Gunakan ekstensi <code>.php</code></td></tr><tr><td>Kode PHP muncul di browser</td><td>File dibuka langsung tanpa web server</td><td>Jalankan melalui Apache/Laragon</td></tr><tr><td>Halaman kosong</td><td>Ada kesalahan sintaks PHP</td><td>Periksa pesan error dan tanda titik koma (<code>;</code>)</td></tr></tbody></table>
 
 Menguasai cara menggabungkan PHP dengan HTML dan CSS merupakan langkah penting bagi peserta didik yang ingin mengembangkan aplikasi web yang dinamis. Kemampuan ini memungkinkan sebuah halaman web tidak hanya memiliki tampilan yang menarik, tetapi juga mampu menampilkan informasi yang berubah sesuai kebutuhan pengguna. Dengan memahami bagaimana PHP menghasilkan konten, HTML menyusun struktur, dan CSS memperindah tampilannya, peserta didik telah memiliki dasar yang kuat dalam pengembangan aplikasi web.
+
+---
+
+# [Praktikum](latihan-praktikum.md)
